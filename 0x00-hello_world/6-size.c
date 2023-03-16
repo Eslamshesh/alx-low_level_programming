@@ -1,9 +1,8 @@
-#!/bin/bash
 #include <stdio.h>
 /**
  * main - main function
  *
- * Return 0  on Success
+ * Return: o  on Success
  */
 int main(void)
 {
