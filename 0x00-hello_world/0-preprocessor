@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc  $CFILF 
+gcc  $CFILF -o test 
