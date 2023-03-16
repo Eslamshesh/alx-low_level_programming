@@ -14,5 +14,5 @@ printf("size of a float:%lu byte(s)", sizeof(float));
 printf("size of a float:%lu byte(s)", sizeof(float));
 printf("size of a float:%lu byte(s)", sizeof(double));
 printf("size of a float:%lu byte(s)", sizeof(unsigned int));
-return (0)
+return (0);
 }
