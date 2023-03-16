@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc  $CFILF -o test 
+gcc $CFILE -o 
