@@ -1,6 +1,7 @@
 #include <stadio.h>
 /** 
-* main-Entry point
+* main-Entry point 
+*
 * Return: Always 0(Sucess)
 */
 int main(void){
