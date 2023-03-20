@@ -10,5 +10,5 @@ char i;
 for (i = 'z'; i >= 'a'; i++)
 putchar(i);
 putchar('\n');
-retuen (0);
+return (0);
 }
