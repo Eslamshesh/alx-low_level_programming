@@ -11,4 +11,4 @@ for (i = 'z'; i >= 'a'; i++)
 putchar(i);
 putchar('\n');
 retuen (0);
-{
+}
